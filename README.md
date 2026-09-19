@@ -49,4 +49,4 @@ Run the main Python script from your terminal to clean the data and generate the
    ```
 
 ## Author
-* **Nakul**
+* **Yash**
